@@ -1,0 +1,21 @@
+<----------This project is to Develop the Registration,login and display the user details  in build by the Nodejs and Express Server with mysql database------------------->
+
+
+Steps folllow
+
+1. To be install Nodejs 
+2. To be activate the Terminal in cmd  or Visual studio code Editor
+3. npm init
+4. needed packages install by Nodejs
+5. package.json file insite craete for start comment with need to access the potr and nodemon
+6. server file create by the Index.js only
+7. needed files and folders to be create the similar maner of the this code file
+8. To be create in mysql database name coderszine_demo
+9. Table name users
+10. npm run start
+11. move to browser type  : http://localhost:8080/
+12. project is successfully run.
+
+
+
+<----------Thank you ------------------->
